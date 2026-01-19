@@ -85,24 +85,41 @@ vector_databases_pinecone/
 🚀 Use Cases
 
 Semantic document retrieval
+
 AI-powered Q&A systems
+
 Chatbots with memory
+
 Recommendation engines
+
 RAG pipelines for LLMs
 
 🤝 Contributing
+
 Open-source thrives on collaboration 💙
+
 Fork the repository
+
 Create your feature branch
+
 git checkout -b feature/AmazingFeature
+
+
 Commit your changes
+
 git commit -m "Add AmazingFeature"
 
+
 Push to GitHub
+
 git push origin feature/AmazingFeature
+
+
 Open a Pull Request 🚀
 
 📄 License
+
 Licensed under the MIT License.
 See LICENSE for details.
+
 <div align="center"> <sub> Built with ❤️ by <a href="https://github.com/AnmolRajpoot25">Anmol Rajpoot</a> </sub> </div> ```
