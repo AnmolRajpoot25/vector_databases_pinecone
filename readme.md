@@ -31,21 +31,7 @@ This repository serves as a comprehensive guide and implementation hub for maste
 * **📈 Scalability:** Demonstration of horizontal scaling for production-grade AI apps.
 
 ---
-
-## 📁 Project Structure
-
-```bash
-├── notebooks/
-│   ├── 01_intro_to_pinecone.ipynb    # Setup and Index Creation
-│   ├── 02_vector_embeddings.ipynb    # Generating vectors via OpenAI/Sentence-Transformers
-│   └── 03_semantic_search_rag.ipynb  # Building a simple RAG pipeline
-├── src/
-│   ├── connection.py                 # Pinecone client initialization
-│   └── utils.py                      # Helper functions for data processing
-├── .env.example                      # Template for API Keys
-└── requirements.txt                  # Project dependencies
-'''bash
-
+z
 ⚙️ Getting Started
 1. Clone the repo
 Bash
@@ -79,3 +65,16 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 <div align="center"> <sub>Built with ❤️ by <a href="https://www.google.com/search?q=https://github.com/AnmolRajpoot25">Anmol Rajpoot</a></sub> </div>
+## 📁 Project Structure
+
+```bash
+├── notebooks/
+│   ├── 01_intro_to_pinecone.ipynb    # Setup and Index Creation
+│   ├── 02_vector_embeddings.ipynb    # Generating vectors via OpenAI/Sentence-Transformers
+│   └── 03_semantic_search_rag.ipynb  # Building a simple RAG pipeline
+├── src/
+│   ├── connection.py                 # Pinecone client initialization
+│   └── utils.py                      # Helper functions for data processing
+├── .env.example                      # Template for API Keys
+└── requirements.txt                  # Project dependencies
+
