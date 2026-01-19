@@ -44,9 +44,7 @@ This repository serves as a comprehensive guide and implementation hub for maste
 │   └── utils.py                      # Helper functions for data processing
 ├── .env.example                      # Template for API Keys
 └── requirements.txt                  # Project dependencies
-
-
-
+'''bash
 
 ⚙️ Getting Started
 1. Clone the repo
